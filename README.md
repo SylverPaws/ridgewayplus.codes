@@ -1,4 +1,14 @@
-# ridgewayplus.codes
-This is the code for my personal website, ridgewayplus.codes.
+# erisa.moe
+It's a website. You should go to [the website](https://erisa.moe) or view the source on this repo.  
+That's it. Thanks.
 
-If you wish you can use this code and modify it to your liking.
+## Similar Repos
+- [Erisa/erisa-games-archive](https://github.com/Erisa/erisa-games-archive)
+- [Erisa/awau.uk](https://github.com/Erisa/awau.uk)
+- [Project-Evenfall/evenfall.site](https://github.com/Project-Evenfall/evenfall.site)
+
+## Credits
+ - Me
+ - https://www.albionresearch.com/misc/obfuscator.php
+ - You
+ 
